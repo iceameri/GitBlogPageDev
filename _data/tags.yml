@@ -1,0 +1,12 @@
+jekyll:
+  name: jekyll
+  description: False
+  cover: assets/built/images/jekyll_logo.png
+python:
+  name: python
+  description: False
+  cover: assets/built/images/python_logo.jpg
+# economy:
+#   name: economy
+#   description: False
+#   cover: assets/built/images/background-frontend.jpg

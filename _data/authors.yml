@@ -1,0 +1,15 @@
+jwoo5264:
+  username: iceameri # user name : martin
+  name: jwoo5264 # user full name : Martin Luther King
+  url_full: # Homepage url
+  url:
+  bio:
+    <a href="http://nutssoft.co.kr/main/main.php">너츠앤씨웨이</a>
+    # 회사정보
+  picture: assets/built/images/bear1.jpg # author image
+  facebook: # facebook ID
+  twitter: # twitter ID
+  intagram: https://www.instagram.com/jwoo_ooo/
+  cover: False
+
+  # 너츠 http://nutssoft.co.kr/main/main.php
