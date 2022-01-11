@@ -64,7 +64,7 @@ favicon: assets/built/images/favicon.jpg
 production_url: https://iceameri.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/iceameri/GitHubPageMaker/
+source_url: https://github.com/iceameri/GitBlogPageDev/
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
