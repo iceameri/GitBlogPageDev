@@ -2,15 +2,15 @@ sudo: false
 language: ruby
 cache: bundler
 rvm:
-  - 2.6.6
+  - 2.6.9
 
 install:
   # Install Jekyll and dependencies
   - bundle install
 
 before_script:
-  - git config --global user.email "moon9342@gmail.com"
-  - git config --global user.name "SungHoon Moon"
+  - git config --global user.email "jwoo5264@gmail.com"
+  - git config --global user.name "iceameri"
 
 script: bundle exec rake site:deploy --quiet #--trace
 
