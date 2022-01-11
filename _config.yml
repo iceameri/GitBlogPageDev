@@ -48,7 +48,7 @@ baseurl: /
 title: JW's Tech Blog
 # 자신의 blog title.
 
-description: JUNGWOO LEE's blog
+description:
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
 cover: assets/built/images/background1.jpg
