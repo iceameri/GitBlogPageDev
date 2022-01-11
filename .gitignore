@@ -30,6 +30,3 @@ tmp
 vendor
 Gemfile.lock
 node_modules
-
-# travis
-.travis.yml
