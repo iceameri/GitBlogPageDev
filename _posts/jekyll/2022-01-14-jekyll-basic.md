@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/built/images/jekyll_logo.png
 navigation: True
-title: jekyll GITBLOG MAINTANANCE
+title: jekyll Gitblog Maintanance
 date: 2022-01-14 00:00:00
 tags: [jekyll]
 class: post-template
@@ -15,7 +15,7 @@ author: jwoo5264
 
 ---
 
-[https://moon9342.github.io/jekyll-start](https://moon9342.github.io/jekyll-start)
+[출처](https://moon9342.github.io/jekyll-start)
 
 ---
 
